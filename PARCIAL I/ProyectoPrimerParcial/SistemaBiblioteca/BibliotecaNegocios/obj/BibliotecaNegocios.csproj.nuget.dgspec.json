@@ -1,0 +1,191 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\115_SistemaBiblioteca_Net8_ADO.NET_NCapas\\SistemaBiblioteca\\BibliotecaNegocios\\BibliotecaNegocios.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\115_SistemaBiblioteca_Net8_ADO.NET_NCapas\\SistemaBiblioteca\\BibliotecaData\\BibliotecaData.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\115_SistemaBiblioteca_Net8_ADO.NET_NCapas\\SistemaBiblioteca\\BibliotecaData\\BibliotecaData.csproj",
+        "projectName": "BibliotecaData",
+        "projectPath": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\115_SistemaBiblioteca_Net8_ADO.NET_NCapas\\SistemaBiblioteca\\BibliotecaData\\BibliotecaData.csproj",
+        "packagesPath": "C:\\Users\\limbe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\115_SistemaBiblioteca_Net8_ADO.NET_NCapas\\SistemaBiblioteca\\BibliotecaData\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\limbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\115_SistemaBiblioteca_Net8_ADO.NET_NCapas\\SistemaBiblioteca\\BibliotecaEntidades\\BibliotecaEntidades.csproj": {
+                "projectPath": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\115_SistemaBiblioteca_Net8_ADO.NET_NCapas\\SistemaBiblioteca\\BibliotecaEntidades\\BibliotecaEntidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\115_SistemaBiblioteca_Net8_ADO.NET_NCapas\\SistemaBiblioteca\\BibliotecaEntidades\\BibliotecaEntidades.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\115_SistemaBiblioteca_Net8_ADO.NET_NCapas\\SistemaBiblioteca\\BibliotecaEntidades\\BibliotecaEntidades.csproj",
+        "projectName": "BibliotecaEntidades",
+        "projectPath": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\115_SistemaBiblioteca_Net8_ADO.NET_NCapas\\SistemaBiblioteca\\BibliotecaEntidades\\BibliotecaEntidades.csproj",
+        "packagesPath": "C:\\Users\\limbe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\115_SistemaBiblioteca_Net8_ADO.NET_NCapas\\SistemaBiblioteca\\BibliotecaEntidades\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\limbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\115_SistemaBiblioteca_Net8_ADO.NET_NCapas\\SistemaBiblioteca\\BibliotecaNegocios\\BibliotecaNegocios.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\115_SistemaBiblioteca_Net8_ADO.NET_NCapas\\SistemaBiblioteca\\BibliotecaNegocios\\BibliotecaNegocios.csproj",
+        "projectName": "BibliotecaNegocios",
+        "projectPath": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\115_SistemaBiblioteca_Net8_ADO.NET_NCapas\\SistemaBiblioteca\\BibliotecaNegocios\\BibliotecaNegocios.csproj",
+        "packagesPath": "C:\\Users\\limbe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\115_SistemaBiblioteca_Net8_ADO.NET_NCapas\\SistemaBiblioteca\\BibliotecaNegocios\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\limbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\115_SistemaBiblioteca_Net8_ADO.NET_NCapas\\SistemaBiblioteca\\BibliotecaData\\BibliotecaData.csproj": {
+                "projectPath": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\115_SistemaBiblioteca_Net8_ADO.NET_NCapas\\SistemaBiblioteca\\BibliotecaData\\BibliotecaData.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

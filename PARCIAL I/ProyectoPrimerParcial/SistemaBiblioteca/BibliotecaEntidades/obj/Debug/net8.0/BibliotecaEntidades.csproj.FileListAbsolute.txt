@@ -21,15 +21,3 @@ C:\Users\limbe\OneDrive\Escritorio\Universidad\Dsitribuidas proyecto\115_Sistema
 C:\Users\limbe\OneDrive\Escritorio\Universidad\Dsitribuidas proyecto\115_SistemaBiblioteca_Net8_ADO.NET_NCapas\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\refint\BibliotecaEntidades.dll
 C:\Users\limbe\OneDrive\Escritorio\Universidad\Dsitribuidas proyecto\115_SistemaBiblioteca_Net8_ADO.NET_NCapas\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\BibliotecaEntidades.pdb
 C:\Users\limbe\OneDrive\Escritorio\Universidad\Dsitribuidas proyecto\115_SistemaBiblioteca_Net8_ADO.NET_NCapas\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\ref\BibliotecaEntidades.dll
-C:\Users\USER\Desktop\Distribuidas\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaEntidades\bin\Debug\net8.0\BibliotecaEntidades.deps.json
-C:\Users\USER\Desktop\Distribuidas\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaEntidades\bin\Debug\net8.0\BibliotecaEntidades.dll
-C:\Users\USER\Desktop\Distribuidas\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaEntidades\bin\Debug\net8.0\BibliotecaEntidades.pdb
-C:\Users\USER\Desktop\Distribuidas\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\BibliotecaEntidades.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\USER\Desktop\Distribuidas\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\BibliotecaEntidades.AssemblyInfoInputs.cache
-C:\Users\USER\Desktop\Distribuidas\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\BibliotecaEntidades.AssemblyInfo.cs
-C:\Users\USER\Desktop\Distribuidas\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\BibliotecaEntidades.csproj.CoreCompileInputs.cache
-C:\Users\USER\Desktop\Distribuidas\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\BibliotecaEntidades.sourcelink.json
-C:\Users\USER\Desktop\Distribuidas\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\BibliotecaEntidades.dll
-C:\Users\USER\Desktop\Distribuidas\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\refint\BibliotecaEntidades.dll
-C:\Users\USER\Desktop\Distribuidas\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\BibliotecaEntidades.pdb
-C:\Users\USER\Desktop\Distribuidas\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\ref\BibliotecaEntidades.dll

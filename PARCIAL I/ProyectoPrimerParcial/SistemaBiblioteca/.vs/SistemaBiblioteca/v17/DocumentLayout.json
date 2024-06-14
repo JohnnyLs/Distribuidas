@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{48018604-D766-431D-97C0-EA29429E4C70}|BibliotecaWeb\\BibliotecaWeb.csproj|c:\\users\\user\\documents\\github\\distribuidas\\parcial i\\proyectoprimerparcial\\sistemabiblioteca\\bibliotecaweb\\bibliotecaweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{48018604-D766-431D-97C0-EA29429E4C70}|BibliotecaWeb\\BibliotecaWeb.csproj|solutionrelative:bibliotecaweb\\bibliotecaweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4CDD0FF-A958-44CF-8631-1F7C027AB0D8}|BibliotecaServicio\\BibliotecaServicio.csproj|c:\\users\\user\\documents\\github\\distribuidas\\parcial i\\proyectoprimerparcial\\sistemabiblioteca\\bibliotecaservicio\\bibliotecaservicio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C4CDD0FF-A958-44CF-8631-1F7C027AB0D8}|BibliotecaServicio\\BibliotecaServicio.csproj|solutionrelative:bibliotecaservicio\\bibliotecaservicio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{48018604-D766-431D-97C0-EA29429E4C70}|BibliotecaWeb\\BibliotecaWeb.csproj|c:\\users\\user\\documents\\github\\distribuidas\\parcial i\\proyectoprimerparcial\\sistemabiblioteca\\bibliotecaweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{48018604-D766-431D-97C0-EA29429E4C70}|BibliotecaWeb\\BibliotecaWeb.csproj|solutionrelative:bibliotecaweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48018604-D766-431D-97C0-EA29429E4C70}|BibliotecaWeb\\BibliotecaWeb.csproj|c:\\users\\user\\documents\\github\\distribuidas\\parcial i\\proyectoprimerparcial\\sistemabiblioteca\\bibliotecaweb\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{48018604-D766-431D-97C0-EA29429E4C70}|BibliotecaWeb\\BibliotecaWeb.csproj|solutionrelative:bibliotecaweb\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48018604-D766-431D-97C0-EA29429E4C70}|BibliotecaWeb\\BibliotecaWeb.csproj|c:\\users\\user\\documents\\github\\distribuidas\\parcial i\\proyectoprimerparcial\\sistemabiblioteca\\bibliotecaweb\\bibliotecaweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{48018604-D766-431D-97C0-EA29429E4C70}|BibliotecaWeb\\BibliotecaWeb.csproj|solutionrelative:bibliotecaweb\\bibliotecaweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{48018604-D766-431D-97C0-EA29429E4C70}|BibliotecaWeb\\BibliotecaWeb.csproj|c:\\users\\user\\documents\\github\\distribuidas\\parcial i\\proyectoprimerparcial\\sistemabiblioteca\\bibliotecaweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48018604-D766-431D-97C0-EA29429E4C70}|BibliotecaWeb\\BibliotecaWeb.csproj|solutionrelative:bibliotecaweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48018604-D766-431D-97C0-EA29429E4C70}|BibliotecaWeb\\BibliotecaWeb.csproj|c:\\users\\user\\documents\\github\\distribuidas\\parcial i\\proyectoprimerparcial\\sistemabiblioteca\\bibliotecaweb\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{48018604-D766-431D-97C0-EA29429E4C70}|BibliotecaWeb\\BibliotecaWeb.csproj|solutionrelative:bibliotecaweb\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{C4CDD0FF-A958-44CF-8631-1F7C027AB0D8}|BibliotecaServicio\\BibliotecaServicio.csproj|c:\\users\\user\\documents\\github\\distribuidas\\parcial i\\proyectoprimerparcial\\sistemabiblioteca\\bibliotecaservicio\\bibliotecaservicio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C4CDD0FF-A958-44CF-8631-1F7C027AB0D8}|BibliotecaServicio\\BibliotecaServicio.csproj|solutionrelative:bibliotecaservicio\\bibliotecaservicio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E79D6CD-8516-4953-A9F8-EB37994FD1B2}|BibliotecaNegocios\\BibliotecaNegocios.csproj|c:\\users\\user\\documents\\github\\distribuidas\\parcial i\\proyectoprimerparcial\\sistemabiblioteca\\bibliotecanegocios\\bibliotecanegocios.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3E79D6CD-8516-4953-A9F8-EB37994FD1B2}|BibliotecaNegocios\\BibliotecaNegocios.csproj|solutionrelative:bibliotecanegocios\\bibliotecanegocios.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7519C75-1B36-432D-9525-A68AB83EC09D}|BibliotecaEntidades\\BibliotecaEntidades.csproj|c:\\users\\user\\documents\\github\\distribuidas\\parcial i\\proyectoprimerparcial\\sistemabiblioteca\\bibliotecaentidades\\bibliotecaentidades.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C7519C75-1B36-432D-9525-A68AB83EC09D}|BibliotecaEntidades\\BibliotecaEntidades.csproj|solutionrelative:bibliotecaentidades\\bibliotecaentidades.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7362CAA0-AD44-4EC7-A6A4-148D372D53AF}|BibliotecaData\\BibliotecaData.csproj|c:\\users\\user\\documents\\github\\distribuidas\\parcial i\\proyectoprimerparcial\\sistemabiblioteca\\bibliotecadata\\bibliotecadata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7362CAA0-AD44-4EC7-A6A4-148D372D53AF}|BibliotecaData\\BibliotecaData.csproj|solutionrelative:bibliotecadata\\bibliotecadata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C4CDD0FF-A958-44CF-8631-1F7C027AB0D8}|BibliotecaServicio\\BibliotecaServicio.csproj|c:\\users\\user\\documents\\github\\distribuidas\\parcial i\\proyectoprimerparcial\\sistemabiblioteca\\bibliotecaservicio\\models\\dtos\\vmusuariologin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -107,82 +119,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BibliotecaWeb.csproj",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\BibliotecaWeb.csproj",
-              "RelativeDocumentMoniker": "BibliotecaWeb\\BibliotecaWeb.csproj",
-              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\BibliotecaWeb.csproj",
-              "RelativeToolTip": "BibliotecaWeb\\BibliotecaWeb.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-13T23:22:10.738Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BibliotecaServicio.csproj",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaServicio\\BibliotecaServicio.csproj",
-              "RelativeDocumentMoniker": "BibliotecaServicio\\BibliotecaServicio.csproj",
-              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaServicio\\BibliotecaServicio.csproj",
-              "RelativeToolTip": "BibliotecaServicio\\BibliotecaServicio.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-14T05:00:26.283Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\appsettings.json",
               "RelativeDocumentMoniker": "BibliotecaWeb\\appsettings.json",
               "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\appsettings.json",
               "RelativeToolTip": "BibliotecaWeb\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-02-25T19:25:52.442Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaServicio\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "BibliotecaServicio\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaServicio\\Properties\\launchSettings.json",
-              "RelativeToolTip": "BibliotecaServicio\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-13T23:24:49.225Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AccesoController.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaServicio\\Controllers\\AccesoController.cs",
-              "RelativeDocumentMoniker": "BibliotecaServicio\\Controllers\\AccesoController.cs",
-              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaServicio\\Controllers\\AccesoController.cs",
-              "RelativeToolTip": "BibliotecaServicio\\Controllers\\AccesoController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T23:23:36.024Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "BibliotecaWeb\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\appsettings.Development.json",
-              "RelativeToolTip": "BibliotecaWeb\\appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-13T23:26:12.595Z"
             },
             {
               "$type": "Document",
@@ -198,12 +152,110 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BibliotecaWeb\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\appsettings.Development.json",
+              "RelativeToolTip": "BibliotecaWeb\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-13T23:26:12.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BibliotecaServicio.csproj",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaServicio\\BibliotecaServicio.csproj",
+              "RelativeDocumentMoniker": "BibliotecaServicio\\BibliotecaServicio.csproj",
+              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaServicio\\BibliotecaServicio.csproj",
+              "RelativeToolTip": "BibliotecaServicio\\BibliotecaServicio.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-14T05:00:26.283Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "BibliotecaNegocios",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaNegocios\\BibliotecaNegocios.csproj",
+              "RelativeDocumentMoniker": "BibliotecaNegocios\\BibliotecaNegocios.csproj",
+              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaNegocios\\BibliotecaNegocios.csproj",
+              "RelativeToolTip": "BibliotecaNegocios\\BibliotecaNegocios.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-14T14:09:32.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BibliotecaEntidades",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaEntidades\\BibliotecaEntidades.csproj",
+              "RelativeDocumentMoniker": "BibliotecaEntidades\\BibliotecaEntidades.csproj",
+              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaEntidades\\BibliotecaEntidades.csproj",
+              "RelativeToolTip": "BibliotecaEntidades\\BibliotecaEntidades.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-14T14:07:59.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BibliotecaWeb.csproj",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\BibliotecaWeb.csproj",
+              "RelativeDocumentMoniker": "BibliotecaWeb\\BibliotecaWeb.csproj",
+              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\BibliotecaWeb.csproj",
+              "RelativeToolTip": "BibliotecaWeb\\BibliotecaWeb.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-13T23:22:10.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BibliotecaData",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaData\\BibliotecaData.csproj",
+              "RelativeDocumentMoniker": "BibliotecaData\\BibliotecaData.csproj",
+              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaData\\BibliotecaData.csproj",
+              "RelativeToolTip": "BibliotecaData\\BibliotecaData.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-14T14:07:55.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaServicio\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BibliotecaServicio\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaServicio\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BibliotecaServicio\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-13T23:24:49.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccesoController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaServicio\\Controllers\\AccesoController.cs",
+              "RelativeDocumentMoniker": "BibliotecaServicio\\Controllers\\AccesoController.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaServicio\\Controllers\\AccesoController.cs",
+              "RelativeToolTip": "BibliotecaServicio\\Controllers\\AccesoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T23:23:36.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "VMUsuarioLogin.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaServicio\\Models\\Dtos\\VMUsuarioLogin.cs",
               "RelativeDocumentMoniker": "BibliotecaServicio\\Models\\Dtos\\VMUsuarioLogin.cs",
@@ -215,7 +267,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "PrestamoController.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaServicio\\Controllers\\PrestamoController.cs",
               "RelativeDocumentMoniker": "BibliotecaServicio\\Controllers\\PrestamoController.cs",
@@ -227,7 +279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaServicio\\Program.cs",
               "RelativeDocumentMoniker": "BibliotecaServicio\\Program.cs",
@@ -239,7 +291,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "Estudiante.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Distribuidas\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaEntidades\\Estudiante.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Desktop\\Distribuidas\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaEntidades\\Estudiante.cs",
@@ -251,7 +303,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "ICategoriaRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Distribuidas\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaData\\Contrato\\ICategoriaRepositorio.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Desktop\\Distribuidas\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaData\\Contrato\\ICategoriaRepositorio.cs",
@@ -263,7 +315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "CategoriaController.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaServicio\\Controllers\\CategoriaController.cs",
               "RelativeDocumentMoniker": "BibliotecaServicio\\Controllers\\CategoriaController.cs",
@@ -275,7 +327,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "Categoria.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Distribuidas\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaEntidades\\Categoria.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Desktop\\Distribuidas\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaEntidades\\Categoria.cs",
@@ -287,7 +339,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "CategoriaRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Distribuidas\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaNegocios\\Implementacion\\CategoriaRepositorio.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Desktop\\Distribuidas\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaNegocios\\Implementacion\\CategoriaRepositorio.cs",
@@ -299,7 +351,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "LibroRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Distribuidas\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaNegocios\\Implementacion\\LibroRepositorio.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Desktop\\Distribuidas\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaNegocios\\Implementacion\\LibroRepositorio.cs",
@@ -311,7 +363,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "Libro.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Distribuidas\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaEntidades\\Libro.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Desktop\\Distribuidas\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaEntidades\\Libro.cs",
@@ -323,7 +375,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "ILibroRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Distribuidas\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaData\\Contrato\\ILibroRepositorio.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Desktop\\Distribuidas\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaData\\Contrato\\ILibroRepositorio.cs",
@@ -335,7 +387,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "LibroController.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaServicio\\Controllers\\LibroController.cs",
               "RelativeDocumentMoniker": "BibliotecaServicio\\Controllers\\LibroController.cs",
@@ -347,7 +399,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "BibliotecaNegocios.csproj",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Distribuidas\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaNegocios\\BibliotecaNegocios.csproj",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Desktop\\Distribuidas\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaNegocios\\BibliotecaNegocios.csproj",
@@ -359,7 +411,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "BibliotecaEntidades.csproj",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Distribuidas\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaEntidades\\BibliotecaEntidades.csproj",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Desktop\\Distribuidas\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaEntidades\\BibliotecaEntidades.csproj",
@@ -371,7 +423,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "BibliotecaData.csproj",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Distribuidas\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaData\\BibliotecaData.csproj",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Desktop\\Distribuidas\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaData\\BibliotecaData.csproj",
@@ -383,7 +435,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Distribuidas\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaNegocios\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Desktop\\Distribuidas\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaNegocios\\Program.cs",
@@ -395,7 +447,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "UsuarioController.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaServicio\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "BibliotecaServicio\\Controllers\\UsuarioController.cs",
@@ -407,7 +459,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaServicio\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "BibliotecaServicio\\Controllers\\HomeController.cs",
@@ -419,7 +471,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "EstudianteController.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaServicio\\Controllers\\EstudianteController.cs",
               "RelativeDocumentMoniker": "BibliotecaServicio\\Controllers\\EstudianteController.cs",
@@ -431,7 +483,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaServicio\\appsettings.json",
               "RelativeDocumentMoniker": "BibliotecaServicio\\appsettings.json",

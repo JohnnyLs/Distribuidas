@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G2cOAICG4ZQ=",
+  "dgSpecHash": "N2uWRgG18KY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\Desktop\\Distribuidas\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaNegocios\\BibliotecaNegocios.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaNegocios\\BibliotecaNegocios.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",

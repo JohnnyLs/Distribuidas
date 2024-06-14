@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Desktop\\Distribuidas\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaData\\BibliotecaData.csproj": {}
+    "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaData\\BibliotecaData.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Desktop\\Distribuidas\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaData\\BibliotecaData.csproj": {
+    "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaData\\BibliotecaData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Desktop\\Distribuidas\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaData\\BibliotecaData.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaData\\BibliotecaData.csproj",
         "projectName": "BibliotecaData",
-        "projectPath": "C:\\Users\\USER\\Desktop\\Distribuidas\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaData\\BibliotecaData.csproj",
+        "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaData\\BibliotecaData.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Desktop\\Distribuidas\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaData\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaData\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\USER\\Desktop\\Distribuidas\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaEntidades\\BibliotecaEntidades.csproj": {
-                "projectPath": "C:\\Users\\USER\\Desktop\\Distribuidas\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaEntidades\\BibliotecaEntidades.csproj"
+              "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaEntidades\\BibliotecaEntidades.csproj": {
+                "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaEntidades\\BibliotecaEntidades.csproj"
               }
             }
           }
@@ -79,14 +79,14 @@
         }
       }
     },
-    "C:\\Users\\USER\\Desktop\\Distribuidas\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaEntidades\\BibliotecaEntidades.csproj": {
+    "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaEntidades\\BibliotecaEntidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Desktop\\Distribuidas\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaEntidades\\BibliotecaEntidades.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaEntidades\\BibliotecaEntidades.csproj",
         "projectName": "BibliotecaEntidades",
-        "projectPath": "C:\\Users\\USER\\Desktop\\Distribuidas\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaEntidades\\BibliotecaEntidades.csproj",
+        "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaEntidades\\BibliotecaEntidades.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Desktop\\Distribuidas\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaEntidades\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaEntidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",

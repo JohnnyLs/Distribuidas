@@ -10,6 +10,7 @@
         "dependencies": {
           "BibliotecaData": "1.0.0",
           "BibliotecaNegocios": "1.0.0",
+          "BibliotecaServicio": "1.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "2.1.34"
         },
         "runtime": {
@@ -149,6 +150,25 @@
           "System.Text.Encodings.Web": "4.5.0"
         }
       },
+      "Microsoft.JSInterop/8.0.6": {
+        "runtime": {
+          "lib/net8.0/Microsoft.JSInterop.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.624.26909"
+          }
+        }
+      },
+      "Microsoft.JSInterop.WebAssembly/8.0.6": {
+        "dependencies": {
+          "Microsoft.JSInterop": "8.0.6"
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.JSInterop.WebAssembly.dll": {
+            "assemblyVersion": "8.0.6.0",
+            "fileVersion": "8.0.624.26909"
+          }
+        }
+      },
       "Microsoft.Net.Http.Headers/2.1.1": {
         "dependencies": {
           "Microsoft.Extensions.Primitives": "8.0.0",
@@ -272,10 +292,22 @@
       },
       "BibliotecaNegocios/1.0.0": {
         "dependencies": {
-          "BibliotecaData": "1.0.0"
+          "BibliotecaData": "1.0.0",
+          "BibliotecaEntidades": "1.0.0"
         },
         "runtime": {
           "BibliotecaNegocios.dll": {}
+        }
+      },
+      "BibliotecaServicio/1.0.0": {
+        "dependencies": {
+          "BibliotecaData": "1.0.0",
+          "BibliotecaEntidades": "1.0.0",
+          "BibliotecaNegocios": "1.0.0",
+          "Microsoft.JSInterop.WebAssembly": "8.0.6"
+        },
+        "runtime": {
+          "BibliotecaServicio.dll": {}
         }
       }
     }
@@ -447,6 +479,20 @@
       "path": "microsoft.extensions.webencoders/2.1.1",
       "hashPath": "microsoft.extensions.webencoders.2.1.1.nupkg.sha512"
     },
+    "Microsoft.JSInterop/8.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-E1djWS3d41fcd++7sGlbYhOHde5Pb0oBpOcNvUbn+1ga/yCvsjzUfbd/tDRg1qacNKS0iwKWYOIqTZxJnh99dQ==",
+      "path": "microsoft.jsinterop/8.0.6",
+      "hashPath": "microsoft.jsinterop.8.0.6.nupkg.sha512"
+    },
+    "Microsoft.JSInterop.WebAssembly/8.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Ufy/hbi7VNNxSJN62ItkcMS3xFCdLzju2rpgQcQAj70rZoxCh4riNBAAsZvURxmn9Hwlxel/R6CG1B+AKpCrKw==",
+      "path": "microsoft.jsinterop.webassembly/8.0.6",
+      "hashPath": "microsoft.jsinterop.webassembly.8.0.6.nupkg.sha512"
+    },
     "Microsoft.Net.Http.Headers/2.1.1": {
       "type": "package",
       "serviceable": true,
@@ -570,6 +616,11 @@
       "sha512": ""
     },
     "BibliotecaNegocios/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaServicio/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

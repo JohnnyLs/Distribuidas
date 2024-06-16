@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BibliotecaEntidades", "Bibl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BibliotecaNegocios", "BibliotecaNegocios\BibliotecaNegocios.csproj", "{3E79D6CD-8516-4953-A9F8-EB37994FD1B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryEscritorio", "LibraryEscritorio\LibraryEscritorio.csproj", "{35865742-EF24-4E68-9A18-33A85B93A8EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{3E79D6CD-8516-4953-A9F8-EB37994FD1B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E79D6CD-8516-4953-A9F8-EB37994FD1B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E79D6CD-8516-4953-A9F8-EB37994FD1B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35865742-EF24-4E68-9A18-33A85B93A8EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35865742-EF24-4E68-9A18-33A85B93A8EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35865742-EF24-4E68-9A18-33A85B93A8EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35865742-EF24-4E68-9A18-33A85B93A8EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -747,19 +747,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\USER\\.nuget\\packages\\": {}
+    "C:\\Users\\jhonn\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaServicio\\BibliotecaServicio.csproj",
+      "projectUniqueName": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaServicio\\BibliotecaServicio.csproj",
       "projectName": "BibliotecaServicio",
-      "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaServicio\\BibliotecaServicio.csproj",
-      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaServicio\\obj\\",
+      "projectPath": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaServicio\\BibliotecaServicio.csproj",
+      "packagesPath": "C:\\Users\\jhonn\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaServicio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jhonn\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -774,14 +774,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaData\\BibliotecaData.csproj": {
-              "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaData\\BibliotecaData.csproj"
+            "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaData\\BibliotecaData.csproj": {
+              "projectPath": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaData\\BibliotecaData.csproj"
             },
-            "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaEntidades\\BibliotecaEntidades.csproj": {
-              "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaEntidades\\BibliotecaEntidades.csproj"
+            "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaEntidades\\BibliotecaEntidades.csproj": {
+              "projectPath": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaEntidades\\BibliotecaEntidades.csproj"
             },
-            "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaNegocios\\BibliotecaNegocios.csproj": {
-              "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaNegocios\\BibliotecaNegocios.csproj"
+            "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaNegocios\\BibliotecaNegocios.csproj": {
+              "projectPath": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaNegocios\\BibliotecaNegocios.csproj"
             }
           }
         }

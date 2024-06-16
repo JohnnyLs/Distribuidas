@@ -24,16 +24,51 @@ namespace BibliotecaServicio.Controllers{
         }
 
         [HttpGet]
+        public async Task<IActionResult> ListaEstudiante()
+        {
+            List<Estudiante> lista = await _repositorio.ListaEstudiante();
+            return StatusCode(StatusCodes.Status200OK, new { data = lista });
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> BusquedaEstudiantes()
+        {
+            try
+            {
+                List<Estudiante> lista = await _repositorio.BuscarEstudiantes();
+                return Ok(lista);
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(StatusCodes.Status500InternalServerError, ex.Message);
+            }
+        }
+
+        [HttpGet]
         public async Task<IActionResult> BusquedaEstudiante(string buscar)
         {
-            List<Estudiante> lista = await _repositorio.BuscarEstudiante(buscar);
-            return StatusCode(StatusCodes.Status200OK, lista);
+            try
+            {
+                List<Estudiante> lista = await _repositorio.BuscarEstudiante(buscar);
+                return Ok(lista);
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(StatusCodes.Status500InternalServerError, ex.Message);
+            }
         }
         [HttpGet]
         public async Task<IActionResult> BusquedaLibro(string buscar)
         {
-            List<Libro> lista = await _repositorio.BuscarLibro(buscar);
-            return StatusCode(StatusCodes.Status200OK, lista);
+            try
+            {
+                List<Libro> lista = await _repositorio.BuscarLibro(buscar);
+                return Ok(lista);
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(StatusCodes.Status500InternalServerError, ex.Message);
+            }
         }
 
 

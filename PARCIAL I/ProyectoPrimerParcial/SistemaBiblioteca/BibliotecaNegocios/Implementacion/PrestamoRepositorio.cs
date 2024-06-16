@@ -66,6 +66,37 @@ namespace BibliotecaNegocios.Implementacion
             return lista;
         }
 
+        public async Task<List<Estudiante>> BuscarEstudiantes()
+        {
+            List<Estudiante> lista = new List<Estudiante>();
+
+            using (var conexion = new SqlConnection(con.CadenaSQL))
+            {
+                await conexion.OpenAsync();
+                SqlCommand cmd = new SqlCommand("sp_buscarEstudiantes", conexion)
+                {
+                    CommandType = CommandType.StoredProcedure
+                };
+
+                using (var dr = await cmd.ExecuteReaderAsync())
+                {
+                    while (await dr.ReadAsync())
+                    {
+                        lista.Add(new Estudiante()
+                        {
+                            IdEstudiante = Convert.ToInt32(dr["IdEstudiante"]),
+                            Codigo = dr["Codigo"].ToString()!,
+                            Nombres = dr["Nombres"].ToString()!,
+                            Apellidos = dr["Apellidos"].ToString()!,
+                        });
+                    }
+                }
+            }
+
+            return lista;
+        }
+
+
         public async Task<List<Libro>> BuscarLibro(string Busqueda)
         {
             List<Libro> lista = new List<Libro>();
@@ -173,6 +204,33 @@ namespace BibliotecaNegocios.Implementacion
                             },
                             FechaDevolucion = dr["FechaDevolucion"].ToString()!,
                             EstadoPrestamo = dr["EstadoPrestamo"].ToString()!
+                        });
+                    }
+                }
+            }
+            return lista;
+        }
+
+        public async Task<List<Estudiante>> ListaEstudiante()
+        {
+            List<Estudiante> lista = new List<Estudiante>();
+
+            using (var conexion = new SqlConnection(con.CadenaSQL))
+            {
+                await conexion.OpenAsync();
+                SqlCommand cmd = new SqlCommand("sp_listaEstudiante", conexion);
+                cmd.CommandType = CommandType.StoredProcedure;
+
+                using (var dr = await cmd.ExecuteReaderAsync())
+                {
+                    while (await dr.ReadAsync())
+                    {
+                        lista.Add(new Estudiante()
+                        {
+                            IdEstudiante = int.Parse(dr["IdEstudiante"].ToString()!),
+                            Codigo = dr["CodigoEstudiante"].ToString()!,
+                            Nombres = dr["Nombres"].ToString()!,
+                            Apellidos = dr["Apellidos"].ToString()!,                
                         });
                     }
                 }

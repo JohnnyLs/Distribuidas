@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaEntidades\\BibliotecaEntidades.csproj": {}
+    "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaEntidades\\BibliotecaEntidades.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaEntidades\\BibliotecaEntidades.csproj": {
+    "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaEntidades\\BibliotecaEntidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaEntidades\\BibliotecaEntidades.csproj",
+        "projectUniqueName": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaEntidades\\BibliotecaEntidades.csproj",
         "projectName": "BibliotecaEntidades",
-        "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaEntidades\\BibliotecaEntidades.csproj",
-        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Documents\\GitHub\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaEntidades\\obj\\",
+        "projectPath": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaEntidades\\BibliotecaEntidades.csproj",
+        "packagesPath": "C:\\Users\\jhonn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaEntidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jhonn\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

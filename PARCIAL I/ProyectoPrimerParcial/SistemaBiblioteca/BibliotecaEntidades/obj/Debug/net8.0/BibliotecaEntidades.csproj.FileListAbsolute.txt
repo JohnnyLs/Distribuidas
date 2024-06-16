@@ -33,3 +33,15 @@ C:\Users\USER\Documents\GitHub\Distribuidas\PARCIAL I\ProyectoPrimerParcial\Sist
 C:\Users\USER\Documents\GitHub\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\refint\BibliotecaEntidades.dll
 C:\Users\USER\Documents\GitHub\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\BibliotecaEntidades.pdb
 C:\Users\USER\Documents\GitHub\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\ref\BibliotecaEntidades.dll
+C:\Users\jhonn\OneDrive\Escritorio\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaEntidades\bin\Debug\net8.0\BibliotecaEntidades.deps.json
+C:\Users\jhonn\OneDrive\Escritorio\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaEntidades\bin\Debug\net8.0\BibliotecaEntidades.dll
+C:\Users\jhonn\OneDrive\Escritorio\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaEntidades\bin\Debug\net8.0\BibliotecaEntidades.pdb
+C:\Users\jhonn\OneDrive\Escritorio\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\BibliotecaEntidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhonn\OneDrive\Escritorio\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\BibliotecaEntidades.AssemblyInfoInputs.cache
+C:\Users\jhonn\OneDrive\Escritorio\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\BibliotecaEntidades.AssemblyInfo.cs
+C:\Users\jhonn\OneDrive\Escritorio\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\BibliotecaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\jhonn\OneDrive\Escritorio\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\BibliotecaEntidades.sourcelink.json
+C:\Users\jhonn\OneDrive\Escritorio\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\BibliotecaEntidades.dll
+C:\Users\jhonn\OneDrive\Escritorio\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\refint\BibliotecaEntidades.dll
+C:\Users\jhonn\OneDrive\Escritorio\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\BibliotecaEntidades.pdb
+C:\Users\jhonn\OneDrive\Escritorio\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\ref\BibliotecaEntidades.dll

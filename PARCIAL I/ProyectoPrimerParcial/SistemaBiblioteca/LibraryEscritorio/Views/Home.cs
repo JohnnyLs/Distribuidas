@@ -109,5 +109,10 @@ namespace LibraryEscritorio.Views
         {
             AbrirFormulario((IconMenuItem)sender, new frmEstudiantes());
         }
+
+        private void menuLibros_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -118,6 +118,7 @@
             menuLibros.Size = new Size(94, 103);
             menuLibros.Text = "Libros";
             menuLibros.TextImageRelation = TextImageRelation.ImageAboveText;
+            menuLibros.Click += menuLibros_Click;
             // 
             // iconMenuItem1
             // 
@@ -127,7 +128,7 @@
             iconMenuItem1.IconColor = Color.Black;
             iconMenuItem1.IconFont = FontAwesome.Sharp.IconFont.Auto;
             iconMenuItem1.Name = "iconMenuItem1";
-            iconMenuItem1.Size = new Size(189, 28);
+            iconMenuItem1.Size = new Size(224, 28);
             iconMenuItem1.Text = "Categorias";
             iconMenuItem1.Click += iconMenuItem1_Click;
             // 
@@ -139,7 +140,7 @@
             iconMenuItem2.IconColor = Color.Black;
             iconMenuItem2.IconFont = FontAwesome.Sharp.IconFont.Auto;
             iconMenuItem2.Name = "iconMenuItem2";
-            iconMenuItem2.Size = new Size(189, 28);
+            iconMenuItem2.Size = new Size(224, 28);
             iconMenuItem2.Text = "Lista Libros";
             iconMenuItem2.Click += iconMenuItem2_Click;
             // 

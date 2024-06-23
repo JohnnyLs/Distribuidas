@@ -61,3 +61,19 @@ C:\Users\jhonn\OneDrive\Escritorio\Distribuidas\PARCIAL I\ProyectoPrimerParcial\
 C:\Users\jhonn\OneDrive\Escritorio\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaData\obj\Debug\net8.0\refint\BibliotecaData.dll
 C:\Users\jhonn\OneDrive\Escritorio\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaData\obj\Debug\net8.0\BibliotecaData.pdb
 C:\Users\jhonn\OneDrive\Escritorio\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaData\obj\Debug\net8.0\ref\BibliotecaData.dll
+C:\Users\limbe\OneDrive\Escritorio\Universidad\Dsitribuidas proyecto\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaData\bin\Debug\net8.0\BibliotecaData.deps.json
+C:\Users\limbe\OneDrive\Escritorio\Universidad\Dsitribuidas proyecto\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaData\bin\Debug\net8.0\BibliotecaData.dll
+C:\Users\limbe\OneDrive\Escritorio\Universidad\Dsitribuidas proyecto\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaData\bin\Debug\net8.0\BibliotecaData.pdb
+C:\Users\limbe\OneDrive\Escritorio\Universidad\Dsitribuidas proyecto\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaData\bin\Debug\net8.0\BibliotecaEntidades.dll
+C:\Users\limbe\OneDrive\Escritorio\Universidad\Dsitribuidas proyecto\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaData\bin\Debug\net8.0\BibliotecaEntidades.pdb
+C:\Users\limbe\OneDrive\Escritorio\Universidad\Dsitribuidas proyecto\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaData\obj\Debug\net8.0\BibliotecaData.csproj.AssemblyReference.cache
+C:\Users\limbe\OneDrive\Escritorio\Universidad\Dsitribuidas proyecto\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaData\obj\Debug\net8.0\BibliotecaData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\limbe\OneDrive\Escritorio\Universidad\Dsitribuidas proyecto\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaData\obj\Debug\net8.0\BibliotecaData.AssemblyInfoInputs.cache
+C:\Users\limbe\OneDrive\Escritorio\Universidad\Dsitribuidas proyecto\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaData\obj\Debug\net8.0\BibliotecaData.AssemblyInfo.cs
+C:\Users\limbe\OneDrive\Escritorio\Universidad\Dsitribuidas proyecto\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaData\obj\Debug\net8.0\BibliotecaData.csproj.CoreCompileInputs.cache
+C:\Users\limbe\OneDrive\Escritorio\Universidad\Dsitribuidas proyecto\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaData\obj\Debug\net8.0\BibliotecaData.sourcelink.json
+C:\Users\limbe\OneDrive\Escritorio\Universidad\Dsitribuidas proyecto\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaData\obj\Debug\net8.0\BibliotecaData.csproj.CopyComplete
+C:\Users\limbe\OneDrive\Escritorio\Universidad\Dsitribuidas proyecto\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaData\obj\Debug\net8.0\BibliotecaData.dll
+C:\Users\limbe\OneDrive\Escritorio\Universidad\Dsitribuidas proyecto\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaData\obj\Debug\net8.0\refint\BibliotecaData.dll
+C:\Users\limbe\OneDrive\Escritorio\Universidad\Dsitribuidas proyecto\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaData\obj\Debug\net8.0\BibliotecaData.pdb
+C:\Users\limbe\OneDrive\Escritorio\Universidad\Dsitribuidas proyecto\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaData\obj\Debug\net8.0\ref\BibliotecaData.dll

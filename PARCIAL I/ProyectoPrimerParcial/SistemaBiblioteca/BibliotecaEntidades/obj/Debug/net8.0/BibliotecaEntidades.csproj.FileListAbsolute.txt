@@ -45,3 +45,15 @@ C:\Users\jhonn\OneDrive\Escritorio\Distribuidas\PARCIAL I\ProyectoPrimerParcial\
 C:\Users\jhonn\OneDrive\Escritorio\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\refint\BibliotecaEntidades.dll
 C:\Users\jhonn\OneDrive\Escritorio\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\BibliotecaEntidades.pdb
 C:\Users\jhonn\OneDrive\Escritorio\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\ref\BibliotecaEntidades.dll
+C:\Users\limbe\OneDrive\Escritorio\Universidad\Dsitribuidas proyecto\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaEntidades\bin\Debug\net8.0\BibliotecaEntidades.deps.json
+C:\Users\limbe\OneDrive\Escritorio\Universidad\Dsitribuidas proyecto\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaEntidades\bin\Debug\net8.0\BibliotecaEntidades.dll
+C:\Users\limbe\OneDrive\Escritorio\Universidad\Dsitribuidas proyecto\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaEntidades\bin\Debug\net8.0\BibliotecaEntidades.pdb
+C:\Users\limbe\OneDrive\Escritorio\Universidad\Dsitribuidas proyecto\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\BibliotecaEntidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\limbe\OneDrive\Escritorio\Universidad\Dsitribuidas proyecto\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\BibliotecaEntidades.AssemblyInfoInputs.cache
+C:\Users\limbe\OneDrive\Escritorio\Universidad\Dsitribuidas proyecto\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\BibliotecaEntidades.AssemblyInfo.cs
+C:\Users\limbe\OneDrive\Escritorio\Universidad\Dsitribuidas proyecto\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\BibliotecaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\limbe\OneDrive\Escritorio\Universidad\Dsitribuidas proyecto\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\BibliotecaEntidades.sourcelink.json
+C:\Users\limbe\OneDrive\Escritorio\Universidad\Dsitribuidas proyecto\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\BibliotecaEntidades.dll
+C:\Users\limbe\OneDrive\Escritorio\Universidad\Dsitribuidas proyecto\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\refint\BibliotecaEntidades.dll
+C:\Users\limbe\OneDrive\Escritorio\Universidad\Dsitribuidas proyecto\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\BibliotecaEntidades.pdb
+C:\Users\limbe\OneDrive\Escritorio\Universidad\Dsitribuidas proyecto\Distribuidas\PARCIAL I\ProyectoPrimerParcial\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\ref\BibliotecaEntidades.dll

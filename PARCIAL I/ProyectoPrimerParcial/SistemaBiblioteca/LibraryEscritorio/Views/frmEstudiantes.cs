@@ -20,6 +20,9 @@ namespace LibraryEscritorio.Views
         {
             InitializeComponent();
             _httpClient = new HttpClient();
+
+            txtNombresEstudiantes.KeyPress += txtNombres_KeyPress;
+            txtApellidosEstudiantes.KeyPress += txtNombres_KeyPress;
         }
 
         private async void frmEstudiantes_Load(object sender, EventArgs e)
@@ -248,6 +251,14 @@ namespace LibraryEscritorio.Views
             }
         }
 
+        private void txtNombres_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            // Permitir solo letras y algunos caracteres especiales como espacios, comas, etc.
+            if (!char.IsLetter(e.KeyChar) && !char.IsControl(e.KeyChar) && !char.IsWhiteSpace(e.KeyChar) && e.KeyChar != 'í' && e.KeyChar != 'é' && e.KeyChar != 'á' && e.KeyChar != 'ñ' && e.KeyChar != 'Ñ' && e.KeyChar != 'ó' && e.KeyChar != 'ú')
+            {
+                e.Handled = true; // Cancelar la tecla presionada si no es válida
+            }
+        }
         private void txtApellido_TextChanged(object sender, EventArgs e)
         {
 

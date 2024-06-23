@@ -58,7 +58,7 @@
             lblContTotalLibros.ForeColor = Color.White;
             lblContTotalLibros.Location = new Point(12, 118);
             lblContTotalLibros.Name = "lblContTotalLibros";
-            lblContTotalLibros.Size = new Size(244, 185);
+            lblContTotalLibros.Size = new Size(272, 212);
             lblContTotalLibros.TabIndex = 2;
             lblContTotalLibros.Click += label1_Click;
             // 
@@ -66,9 +66,9 @@
             // 
             lblContTotalEstudiantes.BackColor = Color.DodgerBlue;
             lblContTotalEstudiantes.FlatStyle = FlatStyle.Flat;
-            lblContTotalEstudiantes.Location = new Point(277, 118);
+            lblContTotalEstudiantes.Location = new Point(290, 118);
             lblContTotalEstudiantes.Name = "lblContTotalEstudiantes";
-            lblContTotalEstudiantes.Size = new Size(238, 185);
+            lblContTotalEstudiantes.Size = new Size(268, 212);
             lblContTotalEstudiantes.TabIndex = 3;
             lblContTotalEstudiantes.Click += label2_Click;
             // 
@@ -76,18 +76,18 @@
             // 
             lblContPrestamos.BackColor = Color.Green;
             lblContPrestamos.FlatStyle = FlatStyle.Flat;
-            lblContPrestamos.Location = new Point(532, 118);
+            lblContPrestamos.Location = new Point(564, 118);
             lblContPrestamos.Name = "lblContPrestamos";
-            lblContPrestamos.Size = new Size(224, 185);
+            lblContPrestamos.Size = new Size(279, 212);
             lblContPrestamos.TabIndex = 4;
             // 
             // lblContDevoluciones
             // 
             lblContDevoluciones.BackColor = Color.Gold;
             lblContDevoluciones.FlatStyle = FlatStyle.Flat;
-            lblContDevoluciones.Location = new Point(778, 118);
+            lblContDevoluciones.Location = new Point(849, 118);
             lblContDevoluciones.Name = "lblContDevoluciones";
-            lblContDevoluciones.Size = new Size(213, 185);
+            lblContDevoluciones.Size = new Size(249, 212);
             lblContDevoluciones.TabIndex = 5;
             // 
             // iconPictureBox1
@@ -97,7 +97,7 @@
             iconPictureBox1.IconColor = Color.White;
             iconPictureBox1.IconFont = FontAwesome.Sharp.IconFont.Auto;
             iconPictureBox1.IconSize = 61;
-            iconPictureBox1.Location = new Point(103, 230);
+            iconPictureBox1.Location = new Point(114, 242);
             iconPictureBox1.Name = "iconPictureBox1";
             iconPictureBox1.Size = new Size(68, 61);
             iconPictureBox1.TabIndex = 6;
@@ -110,7 +110,7 @@
             iconPictureBox2.IconColor = Color.White;
             iconPictureBox2.IconFont = FontAwesome.Sharp.IconFont.Auto;
             iconPictureBox2.IconSize = 61;
-            iconPictureBox2.Location = new Point(365, 230);
+            iconPictureBox2.Location = new Point(398, 242);
             iconPictureBox2.Name = "iconPictureBox2";
             iconPictureBox2.Size = new Size(63, 61);
             iconPictureBox2.TabIndex = 7;
@@ -123,7 +123,7 @@
             iconPictureBox3.IconColor = Color.White;
             iconPictureBox3.IconFont = FontAwesome.Sharp.IconFont.Auto;
             iconPictureBox3.IconSize = 61;
-            iconPictureBox3.Location = new Point(619, 230);
+            iconPictureBox3.Location = new Point(668, 242);
             iconPictureBox3.Name = "iconPictureBox3";
             iconPictureBox3.Size = new Size(66, 61);
             iconPictureBox3.TabIndex = 8;
@@ -136,7 +136,7 @@
             iconPictureBox4.IconColor = Color.White;
             iconPictureBox4.IconFont = FontAwesome.Sharp.IconFont.Auto;
             iconPictureBox4.IconSize = 61;
-            iconPictureBox4.Location = new Point(859, 230);
+            iconPictureBox4.Location = new Point(945, 242);
             iconPictureBox4.Name = "iconPictureBox4";
             iconPictureBox4.Size = new Size(66, 61);
             iconPictureBox4.TabIndex = 9;
@@ -158,7 +158,7 @@
             label2.BackColor = Color.MediumTurquoise;
             label2.Font = new Font("Nirmala UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label2.ForeColor = Color.White;
-            label2.Location = new Point(63, 128);
+            label2.Location = new Point(71, 140);
             label2.Name = "label2";
             label2.Size = new Size(151, 28);
             label2.TabIndex = 11;
@@ -171,7 +171,7 @@
             label3.BackColor = Color.DodgerBlue;
             label3.Font = new Font("Nirmala UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label3.ForeColor = Color.White;
-            label3.Location = new Point(297, 128);
+            label3.Location = new Point(331, 140);
             label3.Name = "label3";
             label3.Size = new Size(203, 28);
             label3.TabIndex = 12;
@@ -183,7 +183,7 @@
             label4.BackColor = Color.Green;
             label4.Font = new Font("Nirmala UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label4.ForeColor = Color.White;
-            label4.Location = new Point(595, 128);
+            label4.Location = new Point(645, 140);
             label4.Name = "label4";
             label4.Size = new Size(110, 28);
             label4.TabIndex = 13;
@@ -195,7 +195,7 @@
             label5.BackColor = Color.Gold;
             label5.Font = new Font("Nirmala UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label5.ForeColor = Color.White;
-            label5.Location = new Point(819, 128);
+            label5.Location = new Point(904, 140);
             label5.Name = "label5";
             label5.Size = new Size(139, 28);
             label5.TabIndex = 14;
@@ -206,7 +206,7 @@
             lblTotalLibros.BackColor = Color.MediumTurquoise;
             lblTotalLibros.Font = new Font("Nirmala UI", 16.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
             lblTotalLibros.ForeColor = Color.White;
-            lblTotalLibros.Location = new Point(114, 178);
+            lblTotalLibros.Location = new Point(125, 192);
             lblTotalLibros.Name = "lblTotalLibros";
             lblTotalLibros.Size = new Size(57, 35);
             lblTotalLibros.TabIndex = 15;
@@ -217,7 +217,7 @@
             lblTotalEstudiantes.BackColor = Color.DodgerBlue;
             lblTotalEstudiantes.Font = new Font("Nirmala UI", 16.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
             lblTotalEstudiantes.ForeColor = Color.White;
-            lblTotalEstudiantes.Location = new Point(378, 171);
+            lblTotalEstudiantes.Location = new Point(398, 185);
             lblTotalEstudiantes.Name = "lblTotalEstudiantes";
             lblTotalEstudiantes.Size = new Size(50, 42);
             lblTotalEstudiantes.TabIndex = 16;
@@ -228,7 +228,7 @@
             lblPrestamos.BackColor = Color.Green;
             lblPrestamos.Font = new Font("Nirmala UI", 16.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
             lblPrestamos.ForeColor = Color.White;
-            lblPrestamos.Location = new Point(628, 171);
+            lblPrestamos.Location = new Point(677, 185);
             lblPrestamos.Name = "lblPrestamos";
             lblPrestamos.Size = new Size(43, 42);
             lblPrestamos.TabIndex = 17;
@@ -239,7 +239,7 @@
             lblDevoluciones.BackColor = Color.Gold;
             lblDevoluciones.Font = new Font("Nirmala UI", 16.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
             lblDevoluciones.ForeColor = Color.White;
-            lblDevoluciones.Location = new Point(872, 178);
+            lblDevoluciones.Location = new Point(954, 185);
             lblDevoluciones.Name = "lblDevoluciones";
             lblDevoluciones.Size = new Size(40, 35);
             lblDevoluciones.TabIndex = 18;
@@ -250,7 +250,7 @@
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.White;
-            ClientSize = new Size(1010, 370);
+            ClientSize = new Size(1132, 370);
             Controls.Add(lblDevoluciones);
             Controls.Add(lblPrestamos);
             Controls.Add(lblTotalEstudiantes);

@@ -34,16 +34,6 @@
             txtId = new TextBox();
             label8 = new Label();
             dgvData = new DataGridView();
-            btnPrestamoAnular = new FontAwesome.Sharp.IconButton();
-            btnPrestamoDevolver = new FontAwesome.Sharp.IconButton();
-            btnPrestamoGuardar = new FontAwesome.Sharp.IconButton();
-            lblPrestamoLibro = new Label();
-            lblPrestamoEstudiante = new Label();
-            label3 = new Label();
-            label2 = new Label();
-            label1 = new Label();
-            cboEstudiantes = new ComboBox();
-            cboLibros = new ComboBox();
             btnSeleccionarPrestamo = new DataGridViewButtonColumn();
             IdPrestamo = new DataGridViewTextBoxColumn();
             FechaPrestamo = new DataGridViewTextBoxColumn();
@@ -55,6 +45,16 @@
             Titulo = new DataGridViewTextBoxColumn();
             FechaDevolucion = new DataGridViewTextBoxColumn();
             EstadoPrestamo = new DataGridViewTextBoxColumn();
+            btnPrestamoAnular = new FontAwesome.Sharp.IconButton();
+            btnPrestamoDevolver = new FontAwesome.Sharp.IconButton();
+            btnPrestamoGuardar = new FontAwesome.Sharp.IconButton();
+            lblPrestamoLibro = new Label();
+            lblPrestamoEstudiante = new Label();
+            label3 = new Label();
+            label2 = new Label();
+            label1 = new Label();
+            cboEstudiantes = new ComboBox();
+            cboLibros = new ComboBox();
             ((System.ComponentModel.ISupportInitialize)dgvData).BeginInit();
             SuspendLayout();
             // 
@@ -110,8 +110,108 @@
             dataGridViewCellStyle3.ForeColor = Color.Black;
             dgvData.RowsDefaultCellStyle = dataGridViewCellStyle3;
             dgvData.RowTemplate.Height = 32;
-            dgvData.Size = new Size(1087, 394);
+            dgvData.Size = new Size(734, 394);
             dgvData.TabIndex = 31;
+            // 
+            // btnSeleccionarPrestamo
+            // 
+            btnSeleccionarPrestamo.FillWeight = 15F;
+            btnSeleccionarPrestamo.HeaderText = "";
+            btnSeleccionarPrestamo.MinimumWidth = 6;
+            btnSeleccionarPrestamo.Name = "btnSeleccionarPrestamo";
+            btnSeleccionarPrestamo.ReadOnly = true;
+            btnSeleccionarPrestamo.Visible = false;
+            btnSeleccionarPrestamo.Width = 35;
+            // 
+            // IdPrestamo
+            // 
+            IdPrestamo.HeaderText = "IdPrestamo";
+            IdPrestamo.MinimumWidth = 6;
+            IdPrestamo.Name = "IdPrestamo";
+            IdPrestamo.ReadOnly = true;
+            IdPrestamo.Visible = false;
+            IdPrestamo.Width = 30;
+            // 
+            // FechaPrestamo
+            // 
+            FechaPrestamo.HeaderText = "Fecha Prestamo";
+            FechaPrestamo.MinimumWidth = 6;
+            FechaPrestamo.Name = "FechaPrestamo";
+            FechaPrestamo.ReadOnly = true;
+            FechaPrestamo.Visible = false;
+            FechaPrestamo.Width = 120;
+            // 
+            // IdEstudiante
+            // 
+            IdEstudiante.HeaderText = "IdEstudiante";
+            IdEstudiante.MinimumWidth = 6;
+            IdEstudiante.Name = "IdEstudiante";
+            IdEstudiante.ReadOnly = true;
+            IdEstudiante.Visible = false;
+            IdEstudiante.Width = 125;
+            // 
+            // Codigo
+            // 
+            Codigo.HeaderText = "Codigo";
+            Codigo.MinimumWidth = 6;
+            Codigo.Name = "Codigo";
+            Codigo.ReadOnly = true;
+            Codigo.Visible = false;
+            Codigo.Width = 80;
+            // 
+            // Estudiante
+            // 
+            Estudiante.HeaderText = "Estudiante";
+            Estudiante.MinimumWidth = 6;
+            Estudiante.Name = "Estudiante";
+            Estudiante.ReadOnly = true;
+            Estudiante.Visible = false;
+            Estudiante.Width = 125;
+            // 
+            // IdLibro
+            // 
+            IdLibro.HeaderText = "IdLibro";
+            IdLibro.MinimumWidth = 6;
+            IdLibro.Name = "IdLibro";
+            IdLibro.ReadOnly = true;
+            IdLibro.Visible = false;
+            IdLibro.Width = 125;
+            // 
+            // CodigoLibro
+            // 
+            CodigoLibro.HeaderText = "Codigo Libro";
+            CodigoLibro.MinimumWidth = 6;
+            CodigoLibro.Name = "CodigoLibro";
+            CodigoLibro.ReadOnly = true;
+            CodigoLibro.Visible = false;
+            CodigoLibro.Width = 125;
+            // 
+            // Titulo
+            // 
+            Titulo.HeaderText = "Titulo";
+            Titulo.MinimumWidth = 6;
+            Titulo.Name = "Titulo";
+            Titulo.ReadOnly = true;
+            Titulo.Visible = false;
+            Titulo.Width = 125;
+            // 
+            // FechaDevolucion
+            // 
+            FechaDevolucion.HeaderText = "Fecha Devolución";
+            FechaDevolucion.MinimumWidth = 6;
+            FechaDevolucion.Name = "FechaDevolucion";
+            FechaDevolucion.ReadOnly = true;
+            FechaDevolucion.Visible = false;
+            FechaDevolucion.Width = 120;
+            // 
+            // EstadoPrestamo
+            // 
+            EstadoPrestamo.HeaderText = "Estado Prestamo";
+            EstadoPrestamo.MinimumWidth = 6;
+            EstadoPrestamo.Name = "EstadoPrestamo";
+            EstadoPrestamo.ReadOnly = true;
+            EstadoPrestamo.Visible = false;
+            EstadoPrestamo.Width = 190;
             // 
             // btnPrestamoAnular
             // 
@@ -243,112 +343,12 @@
             cboLibros.TabIndex = 35;
             cboLibros.SelectedIndexChanged += cboLibros_SelectedIndexChanged;
             // 
-            // btnSeleccionarPrestamo
-            // 
-            btnSeleccionarPrestamo.FillWeight = 15F;
-            btnSeleccionarPrestamo.HeaderText = "";
-            btnSeleccionarPrestamo.MinimumWidth = 6;
-            btnSeleccionarPrestamo.Name = "btnSeleccionarPrestamo";
-            btnSeleccionarPrestamo.ReadOnly = true;
-            btnSeleccionarPrestamo.Visible = false;
-            btnSeleccionarPrestamo.Width = 35;
-            // 
-            // IdPrestamo
-            // 
-            IdPrestamo.HeaderText = "IdPrestamo";
-            IdPrestamo.MinimumWidth = 6;
-            IdPrestamo.Name = "IdPrestamo";
-            IdPrestamo.ReadOnly = true;
-            IdPrestamo.Visible = false;
-            IdPrestamo.Width = 30;
-            // 
-            // FechaPrestamo
-            // 
-            FechaPrestamo.HeaderText = "Fecha Prestamo";
-            FechaPrestamo.MinimumWidth = 6;
-            FechaPrestamo.Name = "FechaPrestamo";
-            FechaPrestamo.ReadOnly = true;
-            FechaPrestamo.Visible = false;
-            FechaPrestamo.Width = 120;
-            // 
-            // IdEstudiante
-            // 
-            IdEstudiante.HeaderText = "IdEstudiante";
-            IdEstudiante.MinimumWidth = 6;
-            IdEstudiante.Name = "IdEstudiante";
-            IdEstudiante.ReadOnly = true;
-            IdEstudiante.Visible = false;
-            IdEstudiante.Width = 125;
-            // 
-            // Codigo
-            // 
-            Codigo.HeaderText = "Codigo";
-            Codigo.MinimumWidth = 6;
-            Codigo.Name = "Codigo";
-            Codigo.ReadOnly = true;
-            Codigo.Visible = false;
-            Codigo.Width = 80;
-            // 
-            // Estudiante
-            // 
-            Estudiante.HeaderText = "Estudiante";
-            Estudiante.MinimumWidth = 6;
-            Estudiante.Name = "Estudiante";
-            Estudiante.ReadOnly = true;
-            Estudiante.Visible = false;
-            Estudiante.Width = 125;
-            // 
-            // IdLibro
-            // 
-            IdLibro.HeaderText = "IdLibro";
-            IdLibro.MinimumWidth = 6;
-            IdLibro.Name = "IdLibro";
-            IdLibro.ReadOnly = true;
-            IdLibro.Visible = false;
-            IdLibro.Width = 125;
-            // 
-            // CodigoLibro
-            // 
-            CodigoLibro.HeaderText = "Codigo Libro";
-            CodigoLibro.MinimumWidth = 6;
-            CodigoLibro.Name = "CodigoLibro";
-            CodigoLibro.ReadOnly = true;
-            CodigoLibro.Visible = false;
-            CodigoLibro.Width = 125;
-            // 
-            // Titulo
-            // 
-            Titulo.HeaderText = "Titulo";
-            Titulo.MinimumWidth = 6;
-            Titulo.Name = "Titulo";
-            Titulo.ReadOnly = true;
-            Titulo.Visible = false;
-            Titulo.Width = 125;
-            // 
-            // FechaDevolucion
-            // 
-            FechaDevolucion.HeaderText = "Fecha Devolución";
-            FechaDevolucion.MinimumWidth = 6;
-            FechaDevolucion.Name = "FechaDevolucion";
-            FechaDevolucion.ReadOnly = true;
-            FechaDevolucion.Visible = false;
-            FechaDevolucion.Width = 120;
-            // 
-            // EstadoPrestamo
-            // 
-            EstadoPrestamo.HeaderText = "Estado Prestamo";
-            EstadoPrestamo.MinimumWidth = 6;
-            EstadoPrestamo.Name = "EstadoPrestamo";
-            EstadoPrestamo.ReadOnly = true;
-            EstadoPrestamo.Visible = false;
-            EstadoPrestamo.Width = 190;
-            // 
             // frmPrestamos
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.SteelBlue;
-            ClientSize = new Size(1426, 483);
+            ClientSize = new Size(1073, 483);
             Controls.Add(cboLibros);
             Controls.Add(cboEstudiantes);
             Controls.Add(txtId);

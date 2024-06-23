@@ -22,6 +22,8 @@ namespace LibraryEscritorio.Views
         {
             InitializeComponent();
             _httpClient = new HttpClient();
+
+            txtNombreCategoria.KeyPress += txtNombres_KeyPress;
         }
 
         private async void frmCategoria_Load(object sender, EventArgs e)
@@ -248,6 +250,20 @@ namespace LibraryEscritorio.Views
         }
 
         private async void lblCategoriasLista_Click(object sender, EventArgs e)
+        {
+            await CargarCategorias();
+        }
+
+        private void txtNombres_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            // Permitir solo letras y algunos caracteres especiales como espacios, comas, etc.
+            if (!char.IsLetter(e.KeyChar) && !char.IsControl(e.KeyChar) && !char.IsWhiteSpace(e.KeyChar) && e.KeyChar != 'í' && e.KeyChar != 'é' && e.KeyChar != 'á' && e.KeyChar != 'ñ' && e.KeyChar != 'Ñ' && e.KeyChar != 'ó' && e.KeyChar != 'ú')
+            {
+                e.Handled = true; // Cancelar la tecla presionada si no es válida
+            }
+        }
+
+        private async void btnCargarCategoria_Click(object sender, EventArgs e)
         {
             await CargarCategorias();
         }

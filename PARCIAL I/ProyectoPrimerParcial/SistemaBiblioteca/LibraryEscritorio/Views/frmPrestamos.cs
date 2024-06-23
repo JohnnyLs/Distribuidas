@@ -245,6 +245,13 @@ namespace LibraryEscritorio.Views
         {
             try
             {
+                // Verificar que se haya seleccionado un estudiante y un libro
+                if (cboEstudiantes.SelectedItem == null || cboLibros.SelectedItem == null)
+                {
+                    MessageBox.Show("Debe seleccionar un estudiante y un libro antes de guardar el préstamo.");
+                    return;
+                }
+
                 // Crear objeto Prestamo
                 var prestamo = new Prestamo
                 {
@@ -257,7 +264,7 @@ namespace LibraryEscritorio.Views
                         IdLibro = (int)cboLibros.SelectedItem.GetType().GetProperty("Value").GetValue(cboLibros.SelectedItem)
                     },
                     FechaPrestamo = DateTime.Now.ToString("dd/MM/yyyy"),
-                   // FechaDevolucion = dtpFechaDevolucion.Value.ToString("dd/MM/yyyy"),
+                    // FechaDevolucion = dtpFechaDevolucion.Value.ToString("dd/MM/yyyy"),
                     EstadoPrestamo = "Prestado"
                 };
 
@@ -270,6 +277,16 @@ namespace LibraryEscritorio.Views
                 if (response.IsSuccessStatusCode)
                 {
                     MessageBox.Show("Préstamo guardado con éxito.");
+
+                    // Limpiar los ComboBox después de guardar
+                    cboEstudiantes.DataSource = null;
+                    cboEstudiantes.Items.Clear();
+                    cboEstudiantes.Text = "";
+
+                    cboLibros.DataSource = null;
+                    cboLibros.Items.Clear();
+                    cboLibros.Text = "";
+
                     // Refrescar la lista de préstamos
                     var prestamos = await ObtenerPrestamos();
                     if (prestamos != null && prestamos.Count > 0)
@@ -287,6 +304,8 @@ namespace LibraryEscritorio.Views
                 MessageBox.Show($"Error al intentar guardar el préstamo: {ex.Message}");
             }
         }
+
+
 
         private async void btnPrestamoDevolver_Click(object sender, EventArgs e)
         {

@@ -1,0 +1,60 @@
+
+ <div class="container">
+  <header class="app-header">
+    <h1> Gestión de Usuarios</h1>
+  </header>
+  <button class="btn-agregar" (click)="openModal(false)">Agregar Usuario</button>
+  
+  <table class="usuarios-table">
+    <thead>
+      <tr>
+        <th>Nombre</th>
+        <th>Email</th>
+        <th>Acciones</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let usuario of usuarios">
+        <td>{{ usuario.nombre }}</td>
+        <td>{{ usuario.email }}</td>
+        <td>
+          <button (click)="editarUsuario(usuario)">Editar</button>
+          <button (click)="eliminarUsuario(usuario.id)">Eliminar</button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <div class="modal" *ngIf="showModal">
+    <div class="modal-content">
+      <span class="close" (click)="closeModal()">&times;</span>
+      <form #usuarioForm="ngForm" (ngSubmit)="crearUsuario(usuarioForm)" class="form-container">
+        <div class="form-group">
+          <label for="nombre">Nombre:</label>
+          <input type="text" id="nombre" name="nombre" [(ngModel)]="selectedUsuario.nombre" (keypress)="allowOnlyLetters($event)" required>
+          <div *ngIf="usuarioForm.submitted && !usuarioForm.controls['nombre'].valid" class="error-message">
+            El nombre solo puede contener letras y espacios.
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="email">Email:</label>
+          <input type="email" id="email" name="email" [(ngModel)]="selectedUsuario.email" required>
+          <div *ngIf="usuarioForm.submitted && !usuarioForm.controls['email'].valid" class="error-message">
+            Por favor, ingresa un email válido.
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="password">Password:</label>
+          <input type="password" id="password" name="password" [(ngModel)]="selectedUsuario.password" required>
+          <div *ngIf="usuarioForm.submitted && !usuarioForm.controls['password'].valid" class="error-message">
+            La contraseña es requerida.
+          </div>
+        </div>
+        <div class="button-group">
+          <button type="submit">{{ isEditing ? 'Actualizar' : 'Crear' }}</button>
+          <button type="button" (click)="closeModal()">Cancelar</button>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>

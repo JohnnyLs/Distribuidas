@@ -1,0 +1,30 @@
+Secuencias ORACLE:
+-------------------
+
+CREATE SEQUENCE curso_seq
+  START WITH 1
+  INCREMENT BY 1
+  NOMAXVALUE
+  NOCYCLE;
+
+CREATE SEQUENCE curso_sec
+  START WITH 1
+  INCREMENT BY 1
+  NOMAXVALUE
+  NOCYCLE;
+
+
+CONSULTAS
+--------------
+SELECT * FROM TAB;
+SELECT * FROM "curso-usuario";
+
+
+FRONTED:
+-------------
+Angular CLI: 17.3.8
+Node: 20.15.1
+Package Manager: npm 9.8.1
+
+Frontend\src\app>npm install --force
+

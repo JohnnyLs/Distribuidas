@@ -48,12 +48,14 @@ export class UsuariosComponent implements OnInit {
       if (this.isEditing) {
         this.usuarioService.actualizar(this.selectedUsuario.id, this.selectedUsuario).subscribe(() => {
           this.listarUsuarios();
+          form.reset(); // Llamada directa a reset aquí
           this.resetForm();
           this.closeModal();
         });
       } else {
         this.usuarioService.crear(this.selectedUsuario).subscribe(() => {
           this.listarUsuarios();
+          form.reset(); // Llamada directa a reset aquí
           this.resetForm();
           this.closeModal();
         });
@@ -63,6 +65,7 @@ export class UsuariosComponent implements OnInit {
       this.errorMessage = 'Por favor, llena todos los campos correctamente.';
     }
   }
+  
 
   validateNombre(nombre: string): boolean {
     const regex = /^[a-zA-Z\s]+$/;

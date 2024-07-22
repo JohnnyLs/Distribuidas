@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaServicio\\BibliotecaServicio.csproj": {}
+    "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaServicio\\BibliotecaServicio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaData\\BibliotecaData.csproj": {
+    "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaData\\BibliotecaData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaData\\BibliotecaData.csproj",
+        "projectUniqueName": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaData\\BibliotecaData.csproj",
         "projectName": "BibliotecaData",
-        "projectPath": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaData\\BibliotecaData.csproj",
-        "packagesPath": "C:\\Users\\limbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaData\\obj\\",
+        "projectPath": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaData\\BibliotecaData.csproj",
+        "packagesPath": "C:\\Users\\jhonn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaData\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\limbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jhonn\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,14 +22,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaEntidades\\BibliotecaEntidades.csproj": {
-                "projectPath": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaEntidades\\BibliotecaEntidades.csproj"
+              "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaEntidades\\BibliotecaEntidades.csproj": {
+                "projectPath": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaEntidades\\BibliotecaEntidades.csproj"
               }
             }
           }
@@ -38,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -69,21 +75,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaEntidades\\BibliotecaEntidades.csproj": {
+    "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaEntidades\\BibliotecaEntidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaEntidades\\BibliotecaEntidades.csproj",
+        "projectUniqueName": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaEntidades\\BibliotecaEntidades.csproj",
         "projectName": "BibliotecaEntidades",
-        "projectPath": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaEntidades\\BibliotecaEntidades.csproj",
-        "packagesPath": "C:\\Users\\limbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaEntidades\\obj\\",
+        "projectPath": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaEntidades\\BibliotecaEntidades.csproj",
+        "packagesPath": "C:\\Users\\jhonn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaEntidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\limbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jhonn\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -91,6 +97,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -103,6 +110,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -124,21 +136,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaNegocios\\BibliotecaNegocios.csproj": {
+    "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaNegocios\\BibliotecaNegocios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaNegocios\\BibliotecaNegocios.csproj",
+        "projectUniqueName": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaNegocios\\BibliotecaNegocios.csproj",
         "projectName": "BibliotecaNegocios",
-        "projectPath": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaNegocios\\BibliotecaNegocios.csproj",
-        "packagesPath": "C:\\Users\\limbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaNegocios\\obj\\",
+        "projectPath": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaNegocios\\BibliotecaNegocios.csproj",
+        "packagesPath": "C:\\Users\\jhonn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaNegocios\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\limbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jhonn\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -146,17 +158,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaData\\BibliotecaData.csproj": {
-                "projectPath": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaData\\BibliotecaData.csproj"
+              "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaData\\BibliotecaData.csproj": {
+                "projectPath": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaData\\BibliotecaData.csproj"
               },
-              "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaEntidades\\BibliotecaEntidades.csproj": {
-                "projectPath": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaEntidades\\BibliotecaEntidades.csproj"
+              "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaEntidades\\BibliotecaEntidades.csproj": {
+                "projectPath": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaEntidades\\BibliotecaEntidades.csproj"
               }
             }
           }
@@ -165,6 +178,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -186,21 +204,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaServicio\\BibliotecaServicio.csproj": {
+    "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaServicio\\BibliotecaServicio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaServicio\\BibliotecaServicio.csproj",
+        "projectUniqueName": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaServicio\\BibliotecaServicio.csproj",
         "projectName": "BibliotecaServicio",
-        "projectPath": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaServicio\\BibliotecaServicio.csproj",
-        "packagesPath": "C:\\Users\\limbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaServicio\\obj\\",
+        "projectPath": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaServicio\\BibliotecaServicio.csproj",
+        "packagesPath": "C:\\Users\\jhonn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaServicio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\limbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jhonn\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -208,20 +226,21 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaData\\BibliotecaData.csproj": {
-                "projectPath": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaData\\BibliotecaData.csproj"
+              "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaData\\BibliotecaData.csproj": {
+                "projectPath": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaData\\BibliotecaData.csproj"
               },
-              "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaEntidades\\BibliotecaEntidades.csproj": {
-                "projectPath": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaEntidades\\BibliotecaEntidades.csproj"
+              "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaEntidades\\BibliotecaEntidades.csproj": {
+                "projectPath": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaEntidades\\BibliotecaEntidades.csproj"
               },
-              "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaNegocios\\BibliotecaNegocios.csproj": {
-                "projectPath": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaNegocios\\BibliotecaNegocios.csproj"
+              "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaNegocios\\BibliotecaNegocios.csproj": {
+                "projectPath": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaNegocios\\BibliotecaNegocios.csproj"
               }
             }
           }
@@ -230,6 +249,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -260,7 +284,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -177,36 +177,36 @@ namespace LibraryEscritorio.Views
         {
             try
             {
-                // Verificar si hay una fila seleccionada en el DataGridView
+                
                 if (dgvData.SelectedRows.Count > 0)
                 {
-                    // Obtener el índice de la fila seleccionada
+                    
                     int index = dgvData.SelectedRows[0].Index;
 
-                    // Obtener el objeto LibroViewModel correspondiente a la fila seleccionada
+                   
                     LibroViewModel libroSeleccionado = dgvData.Rows[index].DataBoundItem as LibroViewModel;
 
-                    // Crear un nuevo objeto Libro con los datos actualizados
+                    
                     var libroModificado = new Libro
                     {
                         IdLibro = libroSeleccionado.IdLibro,
                         Titulo = txtNombreLibro.Text,
                         Autor = txtLibroAutor.Text,
-                        FechaPublicacion = dtpLibroFechaPublicacion.Text,
+                        FechaPublicacion = dtpLibroFechaPublicacion.Value.ToString("yyyy-MM-dd"), 
                         Cantidad = int.Parse(txtLibroCantidad.Text),
                         OCategoria = new Categoria { IdCategoria = (int)cboLibros.SelectedValue, Nombre = cboLibros.Text }
                     };
 
-                    // Enviar la solicitud PUT al servicio web para modificar el libro
+                    
                     var jsonContent = new StringContent(JsonSerializer.Serialize(libroModificado), Encoding.UTF8, "application/json");
                     HttpResponseMessage response = await _httpClient.PutAsync("http://localhost:12210/Libro/Editar", jsonContent);
 
-                    // Verificar si la solicitud fue exitosa
+                    
                     if (response.IsSuccessStatusCode)
                     {
                         MessageBox.Show("Libro modificado exitosamente.");
 
-                        // Opcional: recargar la lista de libros después de modificar
+                        
                         btnCargarLibros_Click(sender, e);
                     }
                     else
@@ -226,20 +226,22 @@ namespace LibraryEscritorio.Views
         }
 
 
+
+
         private async void btnLibroEliminar_Click(object sender, EventArgs e)
         {
             try
             {
-                // Verificar si hay una fila seleccionada en el DataGridView
+                
                 if (dgvData.SelectedRows.Count > 0)
                 {
-                    // Obtener el índice de la fila seleccionada
+                    
                     int index = dgvData.SelectedRows[0].Index;
 
-                    // Obtener el objeto LibroViewModel correspondiente a la fila seleccionada
+                    
                     LibroViewModel libroSeleccionado = dgvData.Rows[index].DataBoundItem as LibroViewModel;
 
-                    // Confirmación de eliminación
+                    
                     DialogResult result = MessageBox.Show($"¿Estás seguro de eliminar el libro '{libroSeleccionado.Titulo}'?",
                                                           "Confirmación de Eliminación",
                                                           MessageBoxButtons.YesNo,
@@ -247,15 +249,15 @@ namespace LibraryEscritorio.Views
 
                     if (result == DialogResult.Yes)
                     {
-                        // Enviar la solicitud DELETE al servicio web para eliminar el libro
-                        HttpResponseMessage response = await _httpClient.DeleteAsync($"http://localhost:12210/Libro/Eliminar/{libroSeleccionado.IdLibro}");
+                        
+                        HttpResponseMessage response = await _httpClient.DeleteAsync($"http://localhost:12210/Libro/Eliminar?IdLibro={libroSeleccionado.IdLibro}");
 
-                        // Verificar si la solicitud fue exitosa
+                        
                         if (response.IsSuccessStatusCode)
                         {
                             MessageBox.Show("Libro eliminado exitosamente.");
 
-                            // Opcional: recargar la lista de libros después de eliminar
+                            
                             btnCargarLibros_Click(sender, e);
                         }
                         else
@@ -274,6 +276,7 @@ namespace LibraryEscritorio.Views
                 MessageBox.Show($"Error al intentar eliminar el libro: {ex.Message}");
             }
         }
+
 
 
         // Clase para manejar la respuesta del servicio

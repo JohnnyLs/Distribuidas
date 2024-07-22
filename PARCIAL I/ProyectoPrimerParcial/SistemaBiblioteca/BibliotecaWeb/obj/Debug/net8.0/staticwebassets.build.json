@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "N4sZXHeSzaQQ7EayuB41H5EUwJr9wT1NE81cpW6zrxc=",
+  "Hash": "e3gFZQcOmVwLTkQs9XooCl2/rTW1G6/in2RV7zTBnVk=",
   "Source": "BibliotecaWeb",
   "BasePath": "_content/BibliotecaWeb",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaServicio\\BibliotecaServicio.csproj",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaServicio\\BibliotecaServicio.csproj",
       "Version": 2,
       "Source": "BibliotecaServicio",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
@@ -22,17 +22,17 @@
     {
       "Name": "BibliotecaWeb\\wwwroot",
       "Source": "BibliotecaWeb",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BibliotecaWeb.styles.css",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BibliotecaWeb.styles.css",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "BibliotecaWeb.styles.css",
       "AssetKind": "All",
@@ -45,13 +45,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BibliotecaWeb.styles.css"
+      "OriginalItemSpec": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BibliotecaWeb.styles.css"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BibliotecaWeb.bundle.scp.css",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BibliotecaWeb.bundle.scp.css",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "BibliotecaWeb.bundle.scp.css",
       "AssetKind": "All",
@@ -64,13 +64,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BibliotecaWeb.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BibliotecaWeb.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\css\\styles.css",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\css\\styles.css",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "css/styles.css",
       "AssetKind": "All",
@@ -86,10 +86,10 @@
       "OriginalItemSpec": "wwwroot\\css\\styles.css"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\favicon.ico",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -105,10 +105,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\js\\scripts.js",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\js\\scripts.js",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "js/scripts.js",
       "AssetKind": "All",
@@ -124,10 +124,10 @@
       "OriginalItemSpec": "wwwroot\\js\\scripts.js"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -162,10 +162,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -181,10 +181,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -200,10 +200,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -219,10 +219,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -257,10 +257,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -276,10 +276,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -295,10 +295,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -314,10 +314,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -333,10 +333,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -352,10 +352,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -371,10 +371,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -390,10 +390,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -409,10 +409,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -428,10 +428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -447,10 +447,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -466,10 +466,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -485,10 +485,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -504,10 +504,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -523,10 +523,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -542,10 +542,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -580,10 +580,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -599,10 +599,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -618,10 +618,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -637,10 +637,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -656,10 +656,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -675,10 +675,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -694,10 +694,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -713,10 +713,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -732,10 +732,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -751,10 +751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -770,10 +770,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -789,10 +789,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -808,10 +808,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -827,10 +827,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -846,10 +846,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -865,10 +865,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -903,10 +903,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -922,10 +922,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -941,10 +941,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -960,10 +960,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -979,10 +979,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\datatables1\\dataTables.bootstrap4.css",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\datatables1\\dataTables.bootstrap4.css",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/datatables1/dataTables.bootstrap4.css",
       "AssetKind": "All",
@@ -998,10 +998,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\datatables1\\dataTables.bootstrap4.css"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\datatables1\\dataTables.bootstrap4.js",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\datatables1\\dataTables.bootstrap4.js",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/datatables1/dataTables.bootstrap4.js",
       "AssetKind": "All",
@@ -1017,10 +1017,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\datatables1\\dataTables.bootstrap4.js"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\datatables1\\dataTables.bootstrap4.min.css",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\datatables1\\dataTables.bootstrap4.min.css",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/datatables1/dataTables.bootstrap4.min.css",
       "AssetKind": "All",
@@ -1036,10 +1036,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\datatables1\\dataTables.bootstrap4.min.css"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\datatables1\\dataTables.bootstrap4.min.js",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\datatables1\\dataTables.bootstrap4.min.js",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/datatables1/dataTables.bootstrap4.min.js",
       "AssetKind": "All",
@@ -1055,10 +1055,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\datatables1\\dataTables.bootstrap4.min.js"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\datatables1\\extensiones\\css\\buttons.dataTables.min.css",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\datatables1\\extensiones\\css\\buttons.dataTables.min.css",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/datatables1/extensiones/css/buttons.dataTables.min.css",
       "AssetKind": "All",
@@ -1074,10 +1074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\datatables1\\extensiones\\css\\buttons.dataTables.min.css"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\datatables1\\extensiones\\css\\responsive.dataTables.min.css",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\datatables1\\extensiones\\css\\responsive.dataTables.min.css",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/datatables1/extensiones/css/responsive.dataTables.min.css",
       "AssetKind": "All",
@@ -1093,10 +1093,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\datatables1\\extensiones\\css\\responsive.dataTables.min.css"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\datatables1\\extensiones\\js\\buttons.html5.min.js",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\datatables1\\extensiones\\js\\buttons.html5.min.js",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/datatables1/extensiones/js/buttons.html5.min.js",
       "AssetKind": "All",
@@ -1112,10 +1112,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\datatables1\\extensiones\\js\\buttons.html5.min.js"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\datatables1\\extensiones\\js\\buttons.print.min.js",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\datatables1\\extensiones\\js\\buttons.print.min.js",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/datatables1/extensiones/js/buttons.print.min.js",
       "AssetKind": "All",
@@ -1131,10 +1131,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\datatables1\\extensiones\\js\\buttons.print.min.js"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\datatables1\\extensiones\\js\\dataTables.buttons.min.js",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\datatables1\\extensiones\\js\\dataTables.buttons.min.js",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/datatables1/extensiones/js/dataTables.buttons.min.js",
       "AssetKind": "All",
@@ -1150,10 +1150,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\datatables1\\extensiones\\js\\dataTables.buttons.min.js"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\datatables1\\extensiones\\js\\dataTables.responsive.min.js",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\datatables1\\extensiones\\js\\dataTables.responsive.min.js",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/datatables1/extensiones/js/dataTables.responsive.min.js",
       "AssetKind": "All",
@@ -1169,10 +1169,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\datatables1\\extensiones\\js\\dataTables.responsive.min.js"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\datatables1\\extensiones\\js\\jszip.min.js",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\datatables1\\extensiones\\js\\jszip.min.js",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/datatables1/extensiones/js/jszip.min.js",
       "AssetKind": "All",
@@ -1188,10 +1188,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\datatables1\\extensiones\\js\\jszip.min.js"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\datatables1\\jquery.dataTables.js",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\datatables1\\jquery.dataTables.js",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/datatables1/jquery.dataTables.js",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\datatables1\\jquery.dataTables.js"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\datatables1\\jquery.dataTables.min.js",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\datatables1\\jquery.dataTables.min.js",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/datatables1/jquery.dataTables.min.js",
       "AssetKind": "All",
@@ -1226,10 +1226,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\datatables1\\jquery.dataTables.min.js"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\datatables2\\css\\dataTables.dataTables.css",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\datatables2\\css\\dataTables.dataTables.css",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/datatables2/css/dataTables.dataTables.css",
       "AssetKind": "All",
@@ -1245,10 +1245,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\datatables2\\css\\dataTables.dataTables.css"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\datatables2\\js\\dataTables.js",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\datatables2\\js\\dataTables.js",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/datatables2/js/dataTables.js",
       "AssetKind": "All",
@@ -1264,10 +1264,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\datatables2\\js\\dataTables.js"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\datatables2\\js\\moment.min.js",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\datatables2\\js\\moment.min.js",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/datatables2/js/moment.min.js",
       "AssetKind": "All",
@@ -1283,10 +1283,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\datatables2\\js\\moment.min.js"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\fontawesome\\all.js",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\fontawesome\\all.js",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/fontawesome/all.js",
       "AssetKind": "All",
@@ -1302,10 +1302,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\fontawesome\\all.js"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1321,10 +1321,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1340,10 +1340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1359,10 +1359,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1378,10 +1378,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1397,10 +1397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1416,10 +1416,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1435,10 +1435,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1454,10 +1454,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1473,10 +1473,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1492,10 +1492,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1511,10 +1511,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\moment\\moment.min.js",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\moment\\moment.min.js",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/moment/moment.min.js",
       "AssetKind": "All",
@@ -1549,10 +1549,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\moment\\moment.min.js"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\select2\\css\\select2.min.css",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\select2\\css\\select2.min.css",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/select2/css/select2.min.css",
       "AssetKind": "All",
@@ -1568,10 +1568,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\select2\\css\\select2.min.css"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\select2\\css\\select2-bootstrap-5-theme.min.css",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\select2\\css\\select2-bootstrap-5-theme.min.css",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/select2/css/select2-bootstrap-5-theme.min.css",
       "AssetKind": "All",
@@ -1587,10 +1587,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\select2\\css\\select2-bootstrap-5-theme.min.css"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\select2\\js\\select2.min.js",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\select2\\js\\select2.min.js",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/select2/js/select2.min.js",
       "AssetKind": "All",
@@ -1606,10 +1606,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\select2\\js\\select2.min.js"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\sweetAlert2\\js\\sweetalert2.js",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\sweetAlert2\\js\\sweetalert2.js",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "lib/sweetAlert2/js/sweetalert2.js",
       "AssetKind": "All",
@@ -1625,10 +1625,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\sweetAlert2\\js\\sweetalert2.js"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\Views\\Categoria\\Categoria.js",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\Views\\Categoria\\Categoria.js",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "Views/Categoria/Categoria.js",
       "AssetKind": "All",
@@ -1644,10 +1644,10 @@
       "OriginalItemSpec": "wwwroot\\Views\\Categoria\\Categoria.js"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\Views\\Dashboard\\Dashboard.js",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\Views\\Dashboard\\Dashboard.js",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "Views/Dashboard/Dashboard.js",
       "AssetKind": "All",
@@ -1663,10 +1663,10 @@
       "OriginalItemSpec": "wwwroot\\Views\\Dashboard\\Dashboard.js"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\Views\\Estudiante\\Estudiante.js",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\Views\\Estudiante\\Estudiante.js",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "Views/Estudiante/Estudiante.js",
       "AssetKind": "All",
@@ -1682,10 +1682,10 @@
       "OriginalItemSpec": "wwwroot\\Views\\Estudiante\\Estudiante.js"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\Views\\Libro\\Libro.js",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\Views\\Libro\\Libro.js",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "Views/Libro/Libro.js",
       "AssetKind": "All",
@@ -1701,10 +1701,10 @@
       "OriginalItemSpec": "wwwroot\\Views\\Libro\\Libro.js"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\Views\\Prestamo\\Prestamo.js",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\Views\\Prestamo\\Prestamo.js",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "Views/Prestamo/Prestamo.js",
       "AssetKind": "All",
@@ -1720,10 +1720,10 @@
       "OriginalItemSpec": "wwwroot\\Views\\Prestamo\\Prestamo.js"
     },
     {
-      "Identity": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\Views\\Usuario\\Usuario.js",
+      "Identity": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\Views\\Usuario\\Usuario.js",
       "SourceId": "BibliotecaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\limbe\\OneDrive\\Escritorio\\Universidad\\Dsitribuidas proyecto\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Distribuidas\\PARCIAL I\\ProyectoPrimerParcial\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\",
       "BasePath": "_content/BibliotecaWeb",
       "RelativePath": "Views/Usuario/Usuario.js",
       "AssetKind": "All",

@@ -24,6 +24,19 @@ html, body {
   overflow: hidden;
   font-family: "Quicksand", sans-serif;
 }
+.member {
+  padding: 10px;
+  cursor: pointer;
+}
+
+.member.active {
+  background-color: #f0f0f0;
+}
+
+.member.unread {
+  font-weight: bold;
+  color: rgb(31, 144, 97); /* Elige el color que prefieras */
+}
 
 .member-list {
   width: 20%;
